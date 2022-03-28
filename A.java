@@ -21,3 +21,6 @@ public class A {
 public class B{
 	System.out.println("Myself is Ajit");
 }
+public class C{
+	System.out.println("Myself is Ajit");
+}
