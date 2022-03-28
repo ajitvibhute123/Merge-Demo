@@ -27,3 +27,6 @@ public class C{
 public class D{
 	System.out.println("Myself is Ajit");
 }
+public class D{
+	System.out.println("Myself is Ajit");
+}
