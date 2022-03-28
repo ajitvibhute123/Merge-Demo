@@ -30,3 +30,6 @@ public class D{
 public class D{
 	System.out.println("Myself is Ajit");
 }
+public class E{
+	System.out.println("Myself is Ajit");
+}
